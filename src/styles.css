@@ -1,0 +1,17 @@
+.container {
+  padding-left: 0.5rem;
+}
+
+span {
+  margin: 0.5rem;
+}
+
+.fa-solid {
+  cursor: pointer;
+}
+
+.action-btn {
+  border: 0;
+  background-color: transparent;
+  cursor: pointer;
+}
